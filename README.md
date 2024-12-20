@@ -80,3 +80,6 @@ To run **BISU Canteen**, you will need the following:
 2. **Meal Reservation:** The user logs in and selects their desired meal from the menu. They can choose the date and time for pickup.
 3. **Admin Management:** An admin logs into the system, manages meal options, and monitors user reservations.
 4. **Meal Pickup:** The user picks up their reserved meal at the scheduled time, avoiding long queues at the canteen.
+
+
+<img src="https://github.com/user-attachments/assets/70637f5f-85f4-4c61-a73d-e402a3902e68" width="30%" height="60%"/>
