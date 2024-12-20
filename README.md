@@ -88,7 +88,11 @@ To run **BISU Canteen**, you will need the following:
 
 <img src="https://github.com/user-attachments/assets/f8c99db0-c890-423d-a9e9-659e59b21e15" width="30%" height="60%"/>
 
+<br>
+
 <img src="https://github.com/user-attachments/assets/f5775d2b-0751-4b00-bf20-cf2f67b6884d" width="30%" height="60%"/>
+
+<br>
 
 <img src="https://github.com/user-attachments/assets/29699fe2-a658-45d7-95bb-8166fcfead68" width="30%" height="60%"/>
 
